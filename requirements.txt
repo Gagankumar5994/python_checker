@@ -1,0 +1,16 @@
+Pyrogram
+PySocks
+python-dotenv
+requests
+TgCrypto
+urllib3
+bs4
+names
+pyrogram
+aiogram
+redis
+os
+random
+asyncio
+json
+colored
